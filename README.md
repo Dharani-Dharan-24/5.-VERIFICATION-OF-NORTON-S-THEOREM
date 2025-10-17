@@ -26,18 +26,36 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+<img width="645" height="326" alt="image" src="https://github.com/user-attachments/assets/84eafd1d-3d86-4d6b-aab4-b5b428456ee7" />
+
+
 
 **To measure RTh or RN**
+
+<img width="687" height="274" alt="image" src="https://github.com/user-attachments/assets/c1fdcae3-94bd-48da-9de6-a11437f4b08b" />
 
 
 
 **To measure IN or Isc**
 
- 
-**Thevenin’s equivalent circuit**
+<img width="689" height="306" alt="image" src="https://github.com/user-attachments/assets/ce8cf087-4c36-4f4f-9c6b-14ccdef11eea" />
 
 
 **Norton’s equivalent circuit**
+
+<img width="681" height="358" alt="image" src="https://github.com/user-attachments/assets/b174a640-8c8d-4a4f-8017-646841729e1a" />
+
+**OBSERVARION & CALCULATION:**
+
+<img width="525" height="491" alt="image" src="https://github.com/user-attachments/assets/abd80a7f-2db8-4645-b55c-a08bd1d650e2" />
+
+<img width="610" height="814" alt="image" src="https://github.com/user-attachments/assets/9a1c5eb1-ea95-4c2c-afb9-af2aac8e5937" />
+
+<img width="605" height="807" alt="image" src="https://github.com/user-attachments/assets/58363514-a220-434d-a69c-4a963eeabc03" />
+
+**MARKS SPLIT-UP:**
+
+<img width="645" height="484" alt="image" src="https://github.com/user-attachments/assets/a0e2e791-f319-49d6-a128-a871fd4be315" />
 
 
 **PROCEDURE:**
